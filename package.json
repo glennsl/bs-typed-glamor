@@ -17,11 +17,11 @@
   "license": "LGPL-3.0",
   "dependencies": {
     "glamor": "^2.20.40",
-    "typed-css-core": "../core"
+    "bs-typed-css-core": "glennsl/bs-typed-css-core"
   },
   "devDependencies": {
     "@glennsl/bs-jest": "^0.4.2",
-    "bs-platform": "^2.2.1"
+    "bs-platform": "^3.0.0"
   },
   "jest": {
     "testMatch": [

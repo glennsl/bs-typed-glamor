@@ -1,5 +1,5 @@
 {
-  "name": "typed-glamor",
+  "name": "bs-typed-glamor",
   "bsc-flags": ["-bs-no-version-header"],
   "version": "0.1.0",
   "sources": [

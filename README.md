@@ -127,3 +127,18 @@ let readme = css ~extend:CommonStyles.html [
   ]
 ]
 ```
+
+To use with ReasonReact:
+
+```reason
+
+module Box = {
+  let component = ReasonReact.statelessComponent("Box");
+  let make = _children => {
+    ...component,
+
+    render: (_self) =>
+      <div className=(Styles.box |> TypedGlamor.toString) />
+  }
+};
+```

@@ -1,6 +1,6 @@
 # Glamor. Typed.
 
-`bs-typed-glamor` provides a strongly typed interface to glamor based on the types of [https://github.com/glennsl/bs-typed-css-core](glennsl/bs-typed-css-core).
+`bs-typed-glamor` provides a strongly typed interface to glamor based on the types of [glennsl/bs-typed-css-core](https://github.com/glennsl/bs-typed-css-core).
 
 ## Annotated Example
 

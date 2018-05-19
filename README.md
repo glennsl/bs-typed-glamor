@@ -2,6 +2,14 @@
 
 `bs-typed-glamor` provides a strongly typed interface to glamor based on the types of [glennsl/bs-typed-css-core](https://github.com/glennsl/bs-typed-css-core).
 
+[![Dependencies](https://img.shields.io/david/glennsl/bs-typed-glamor.svg)]()
+[![Issues](https://img.shields.io/github/issues/glennsl/bs-typed-glamor.svg)](https://github.com/glennsl/bs-typed-glamor/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/glennsl/bs-typed-glamor.svg)]()
+
+## Installation
+
+Run `npm install --save glennsl/bs-typed-glamor` and add `bs-typed-glamor` to the `bs-dependencies` in `bsconfig.json`. 
+
 ## Annotated Example
 
 ```ml

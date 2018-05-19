@@ -150,3 +150,7 @@ module Box = {
   }
 };
 ```
+
+## Documentation
+
+The supported CSS properties and values are listed in [`bs-typed-css-core/CssCore.re`](https://github.com/glennsl/bs-typed-css-core/blob/master/src/CssCore.re), while the Glamor-specific parts are in [TypedGlamor.rei](https://github.com/glennsl/bs-typed-glamor/blob/master/src/TypedGlamor.rei).

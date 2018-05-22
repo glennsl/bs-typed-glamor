@@ -560,6 +560,7 @@ let flexStart = "flex-start" |> Value.pack;
 let flexEnd = "flex-end" |> Value.pack;
 let spaceBetween = "space-between" |> Value.pack;
 let spaceAround = "space-around" |> Value.pack;
+let spaceEvenly = "space-evenly" |> Value.pack;
 
 /* alignitems */
 let stretch = "stretch" |> Value.pack;

@@ -1688,6 +1688,8 @@ var spaceBetween = "space-between";
 
 var spaceAround = "space-around";
 
+var spaceEvenly = "space-evenly";
+
 var stretch = "stretch";
 
 var odd = "odd";
@@ -2039,6 +2041,7 @@ exports.flexStart = flexStart;
 exports.flexEnd = flexEnd;
 exports.spaceBetween = spaceBetween;
 exports.spaceAround = spaceAround;
+exports.spaceEvenly = spaceEvenly;
 exports.stretch = stretch;
 exports.$$int = $$int;
 exports.num = num;

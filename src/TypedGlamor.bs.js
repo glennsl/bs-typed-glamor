@@ -1470,7 +1470,7 @@ var tableCaption = "table-caption";
 
 var flex = "flex";
 
-var inlineFlex = "inlineFlex";
+var inlineFlex = "inline-flex";
 
 var $$static = "static";
 

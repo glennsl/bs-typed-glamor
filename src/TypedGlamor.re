@@ -404,7 +404,7 @@ let tableColumn = "table-column" |> Value.pack;
 let tableCell = "table-cell" |> Value.pack;
 let tableCaption = "table-caption" |> Value.pack;
 let flex = "flex" |> Value.pack;
-let inlineFlex = "inlineFlex" |> Value.pack;
+let inlineFlex = "inline-flex" |> Value.pack;
 
 let static = "static" |> Value.pack;
 let relative = "relative" |> Value.pack;
